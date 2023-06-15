@@ -1,0 +1,18 @@
+fixed escape not working
+fixed game not reloading on death (?)
+updated railgun description
+fixed false you win screen
+
+cannon
+lvl 1: 1.5dmg -> 1dmg 
+lvl 2: 1 explosion dmg -> 0.75 explosion dmg
+lvl 3: 3dmg -> 1.5dmg
+2 explosion dmg -> 1 explosion dmg
+
+shotgun
+lvl 1: 0.8dmg -> 1dmg
+
+laserblaster
+lvl 1: 1dmg -> 0.5dmg
+lvl 2: 1.5dmg -> 0.75dmg
+lvl 3: 4dmg -> 1.5dmg

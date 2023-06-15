@@ -1,0 +1,3 @@
+fixed elites not dropping money 
+forgot to add steam support back whoops
+added some other achievements

@@ -1,0 +1,31 @@
+elite hp 5x -> 4x
+elites do 10 dmg rather than 1
+elites give 1 coin on death rather than 2
+fixed advanced tech achievement
+snail hp 120hp -> 500hp (this might sound like a lot but the snail is really slow)
+fixed being able to upgrade max xp towers
+spider hp 38hp -> 45hp
+moved some text around a little
+changed the window title and icon
+
+flamethrower
+lvl 1: 3dmg -> 1dmg
+1.5shootingdur -> 0.8shootingdur
+lvl 2: 6dmg -> 2dmg
+1.9shootingdur -> 1.2 shootingdur
+lvl 3: 9dmg -> 3dmg
+2.2shootingdur -> 1.6shootingdur
+
+magnifier
+lvl 2: 0.14dmg -> 0.12dmg
+lvl 3: 0.3dmg -> 0.25dmg
+
+difficulty 1
+health: 5% -> 10%
+enemy amount: 10% -> 15%
+towers: {4, 6, 7, 8, 9} -> {4, 6, 6, 7, 8}
+
+difficulty 2
+health: 10% -> 15%
+enemy amount: 20% -> 25%
+

@@ -1,0 +1,28 @@
+fixed endgame text
+changed weight to only target air enemies
+elites now drop gold
+fixed elite status effects
+added a new secret status effect
+regen no longer gives enemies more health than they started with
+made flaming oil better
+elites now have 5x the hp of normal enemies instead of 3x
+fixed elite audio
+
+added an achievement 'MAXED OUT'
+
+amp
+lvl 1: mult 1.2 -> 1.5
+lvl 2: mult 1.4 -> 2
+lvl 3: mult 1.6 -> 2.5
+
+pesticide
+lvl 2: dmg 15 -> 20
+lvl 3: dmg 25 -> 30
+
+magnifier
+lvl 1: dmg 0.05 -> 0.04
+lvl 2: dmg 0.1 -> 0.14
+
+ice
+lvl 2: firerate 1 -> 0.9
+lvl 3: firerate 0.8 -> 0.7

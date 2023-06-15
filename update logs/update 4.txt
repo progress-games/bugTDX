@@ -1,0 +1,5 @@
+added place tower sound
+made sfx start at 60% volume because it's way too loud
+rerolling no longer unfreezes the shop
+escape no longer quits the game
+fixed (?) endgame crashing the game

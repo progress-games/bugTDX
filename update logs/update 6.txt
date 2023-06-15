@@ -1,0 +1,23 @@
+fixed 'f' key text
+fixed elite ratetimer bug
+made final boss way stronger
+added a new tutorial slide about selling towers
+added a 'return to main menu button' in settings
+
+added new effect 'stone'
+'lava' + 'water' = 'stone'
+'fire' + 'water' = 'stone'
+makes an enemy slow and regenerate health over time
+
+added new effect 'confused'
+'push' + 'pull' = 'confused'
+adds randomness to the movement of the bug
+
+pesticide
+lvl 1: 12dmg -> 1dmg
+lvl 2: 20dmg -> 2dmg 
+lvl 3: 30dmg -> 2.5dmg
+
+poison
+lvl 1: 1dmg -> 0.7dmg
+lvl 2: 1.5dmg -> 1.2dmg

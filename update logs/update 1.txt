@@ -1,0 +1,2 @@
+fixed monkey rotation
+fixed endgame causing crash
